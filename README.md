@@ -119,4 +119,5 @@ make qemu-nox
 get_name
 ```
 
-![[Pasted image 20240619201521.png]]
+![image](https://github.com/Tawheed-tariq/xv6-public/assets/143424182/d1cb3435-4480-404f-a4c1-4356477e3e52)
+
